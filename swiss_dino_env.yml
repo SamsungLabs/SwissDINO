@@ -1,0 +1,20 @@
+name: swiss-dino
+channels:
+  - defaults
+  - pytorch
+  - xformers
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch::pytorch=2.0.0
+  - pytorch::pytorch-cuda=11.7
+  - pytorch::torchvision=0.15.0
+  - pandas
+  - pip
+  - xformers::xformers=0.0.19
+  - pip:
+    - tqdm
+    - scikit-learn
+    - datasets
+    - opencv-python
