@@ -3,7 +3,7 @@
 Official implementation of our work **SwissDINO**, published in [IROS2024](https://arxiv.org/abs/2407.07541).
 In this paper, we present a one-shot personal object search method based on the recent DINOv2 transformer model. Swiss DINO handles challenging on-device personalized scene understanding requirements and does not require any adaptation training.
 
-![image](https://media.github.sec.samsung.net/user/78455/files/d85b0fb7-7730-4e53-b31f-2fee55320fc6)
+![image](https://github.com/user-attachments/assets/335eba04-46e4-4dbc-ab93-15611f75cb40)
 
 ## Install requirements
 
